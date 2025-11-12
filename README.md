@@ -1,4 +1,11 @@
-# TRES EN RATLLA
-Aquest projecte creo el joc de Tres en Ratlla a C++, aplicant el disseny descendent i de programació estructurada amb funcions dedicades al control del tauler, els torns i la condició de victòria.
-
-
+# TRES EN RALL - Pablo Abad Ortega i Sergi
+## INFO DEL PROJECTE
+## Nom del joc --> Tres en Ralla 
+## Autors --> Pablo i Sergi
+## Data --> 04/11/2025
+### CARACTERISTIQUES PRINCIPALS
+- Interfície de consoloa: amb numeracio de caselles
+- Validació d'entrada: per evitar errors de l'ususari
+- Deteccio automatica: del guanyador i de l'empat
+- Control de torns: alternat entre els jugadors
+- Gestio d'errors: per les caselles ocupades i les entrades invalides
